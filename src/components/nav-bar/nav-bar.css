@@ -1,0 +1,18 @@
+.navbar {
+  border-bottom: 1px solid #888;
+}
+
+.navbar ul {
+  display: flex;
+  flex-flow: row wrap;
+  list-style-type: none;
+}
+
+.navbar ul a {
+  padding: 20px;
+  text-decoration: none;
+}
+
+.navbar__login {
+  margin-left: auto;
+}
